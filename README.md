@@ -11,7 +11,8 @@ For now, you can Create, Update or Delete a User using the respective button.
 The Admin Link will take you to the Admin page for admin login.
 ![mainMenu](https://github.com/user-attachments/assets/4f45e68d-0d4c-4b65-b4e7-0b0b2cc20da6)
 
-You can create a user
+You can create a user.
+
 ![createUser](https://github.com/user-attachments/assets/a3795023-43ae-485c-a9c6-d136c7a078e7)
 
 and you will be thanked for doing so, there is a similar page for the update and delete pages too
