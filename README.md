@@ -15,19 +15,24 @@ You can create a user.
 
 ![createUser](https://github.com/user-attachments/assets/a3795023-43ae-485c-a9c6-d136c7a078e7)
 
-and you will be thanked for doing so, there is a similar page for the update and delete pages too
+and you will be thanked for doing so, there is a similar page for the update and delete pages too.
+
 ![createUserConfirmation](https://github.com/user-attachments/assets/2417106f-25ba-45cb-9c4c-595fd58ba123)
 
-and it will be added to the user list
+and it will be added to the user list.
+
 ![adminUserAfterCreation](https://github.com/user-attachments/assets/366c2d69-5502-4d96-a025-8f207e89b8cf)
 
 Update page:
+
 ![updateUser](https://github.com/user-attachments/assets/51290b4c-c2bb-4082-8051-7ed030ab18ef)
 
 Delete page:
+
 ![deleteUser](https://github.com/user-attachments/assets/0f8c9687-f175-45da-97a8-046c5246af21)
 
 and no more user!
+
 ![adminAfterUserDeletion](https://github.com/user-attachments/assets/91cf170e-1917-4321-b62c-7bd75cb527d9)
 
 
