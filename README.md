@@ -8,7 +8,7 @@ How to run application: At this moment I am considering what the best route woul
 **Pictrues:**
 Upon boot you are greeted with a main menu. In the future I'd like this to be a menu to choose which app to use.
 For now, you can Create, Update or Delete a User using the respective button. 
-The Admin Link will take you to the Admin page for admin login, it's here temperarily.
+The Admin Link will take you to the Admin page for admin login.
 ![mainMenu](https://github.com/user-attachments/assets/4f45e68d-0d4c-4b65-b4e7-0b0b2cc20da6)
 
 You can create a user
