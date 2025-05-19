@@ -1,22 +1,6 @@
 # AdventurerGuildGame_ComIT-Course
-A series of smaller scripts that can be used in standalone real world cases, connected to a core script that runs them in a game. To show my capacity for both video game and real world app development.
+A first draft attempt to create a series of smaller apps for standalone realworld use and a large game app that would use the smaller apps during play. The goal was to show my capacity for both video game and real world app development. During this process I learned a lot and wish to start the project from scratch using what I have learned, this page is a record of my first steps. Check the "blame" section to see the history of the project up to this point.
 
-Planned Features:
--A standalone banking app
--A standalone inventory management app
--More as I think and make them.
--A game app that uses the prior apps to power it's functions.
+Technologies and softwares used: The Django framework, the Python coding language, VSCode, Git and SQLite.
 
-Planned Frameworks: I plan to use Django for now as an offline website, that will create, read, update and destroy data from an internal data base.
-
-How to run application: Unsure at this time, for now it's run from the terminal and uses the default browser. This section will be updated once I have a better way.
-
-Roadmap:
--Inventory app
--Banking app
--Personnel Registry
--Travel app
--The game itself, using these standalone apps: running a guild, managing personnel, finances, inventory, quests and changing political landscapes.
-  -A land of rulers, kingdoms small and large with work for adventurers and others. Procedural generation is planned to allow for maximum possibilities while maintaining a believable simulation and world.
-  -Each adventurer is their own entity. They have goals, personalities, relationships, histories and are meant to grow through their experiences. They are professionals, not friends, unless you put in that work.
-  -Player choice in who you hire, who is given which jobs, which jobs you accept or deny, with consequences that affect the world whether minor or major.
+How to run application: At this moment I am considering what the best route would be for this, for now, you can open the project in VSCode, cd to AdventurersRespite and use command 'python manage.py runserver'. You will also need to run the 'python manage.py createsuperuser' command to create an admin user if you wish to access the admin backend.
