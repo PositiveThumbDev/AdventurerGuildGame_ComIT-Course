@@ -35,8 +35,10 @@ and no more user!
 
 ![adminAfterUserDeletion](https://github.com/user-attachments/assets/91cf170e-1917-4321-b62c-7bd75cb527d9)
 
+You can also create an account in the admin backend and assign it to a user.
 
+![adminAccountCreation](https://github.com/user-attachments/assets/b3df1455-6b40-4070-92e4-1480c964336c)
 
-
-
+I planned to allow for you to create an account on the website but wasn't sure how, it was actually the first thing I tried to make.
+When I ran into a wall I worked on the other functions to see if I could learn the issue, I did but ran out of time for the projects due date.
 
